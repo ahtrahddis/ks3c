@@ -18,7 +18,7 @@ This e-book is an unofficial collection of texts written by [Kaj Sotala](https:/
 - [Three characteristics: impermanence](https://www.lesswrong.com/s/ZbmRyDN8TCpBTZSip/p/T8gD9mRDHnb2gyn9N)
 
 
-## Download (V 1.00 - 2020-09-30)
+## Downloads (V 1.00 - 2020-09-30)
 
 - [epub](https://github.com/atrahhdis/ks3c/raw/master/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.epub)
 - [azw3 (kindle)](https://github.com/atrahhdis/ks3c/raw/master/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.azw3)
