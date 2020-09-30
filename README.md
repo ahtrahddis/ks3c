@@ -1,6 +1,6 @@
 # A non-mystical explanation of insight meditation and the three characteristics of existence
 
-This e-book is an unofficial collection of texts written by [Kaj Sotala](https://kajsotala.fi/) and published on [LESSWRONG](Introduction).
+This e-book is an unofficial collection of texts written by [Kaj Sotala](https://kajsotala.fi/) and published on [LESSWRONG](https://www.lesswrong.com/).
 
 ## Sources
 
